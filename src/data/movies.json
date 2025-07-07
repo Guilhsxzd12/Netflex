@@ -1,0 +1,40 @@
+
+[
+  {
+    "category": "Lançamentos",
+    "items": [
+      {
+        "id": "jurassic-park",
+        "title": "Jurassic Park",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e7/Jurassic_Park_poster.jpg",
+        "price": 20,
+        "description": "Um parque temático com dinossauros clonados vira uma armadilha mortal.",
+        "watchLink": "https://drive.google.com/drive/folders/example_jurassic_park",
+        "buyLink": "https://livepix.gg/luxstore/jurassic-park"
+      },
+      {
+        "id": "round-six",
+        "title": "Round Six",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Netflix_Round_Six_Logo.png",
+        "price": 15,
+        "description": "Jogos mortais com pessoas desesperadas por dinheiro.",
+        "watchLink": "https://drive.google.com/drive/folders/example_round_six",
+        "buyLink": "https://livepix.gg/luxstore/round-six"
+      }
+    ]
+  },
+  {
+    "category": "Ação",
+    "items": [
+      {
+        "id": "mission-impossible",
+        "title": "Missão Impossível",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/Mission_Impossible_Fallout_poster.jpg",
+        "price": 18,
+        "description": "Ethan Hunt enfrenta sua missão mais difícil.",
+        "watchLink": "https://drive.google.com/drive/folders/example_mission_impossible",
+        "buyLink": "https://livepix.gg/luxstore/mission-impossible"
+      }
+    ]
+  }
+]
